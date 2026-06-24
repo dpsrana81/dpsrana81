@@ -1,10 +1,10 @@
 
-# Hi 👋, I'm Dev Pratap Singh
+# Hi 👋, I'm Dev Partap Singh
 
 <h3 align="center">Cloud Computing Enthusiast | AWS Learner | DevOps Aspirant | B.Tech IT Student</h3>
 
 <p align="center">
-🎓 B.Tech CSE (3rd Year) | Kurukshetra University <br>
+🎓 B.Tech IT (3rd Year) | Kurukshetra University <br>
 ☁️ Passionate about Cloud Computing, DevOps, Linux & Automation
 </p>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science undergraduate with hands-on experience in Cloud Computing and a strong interest in DevOps practices. I enjoy building scalable cloud solutions, automating workflows, and exploring modern infrastructure technologies.
+I am a Information Technology undergraduate with hands-on experience in Cloud Computing and a strong interest in DevOps practices. I enjoy building scalable cloud solutions, automating workflows, and exploring modern infrastructure technologies.
 
 My learning journey focuses on AWS Cloud, Linux Systems, CI/CD pipelines, containerization, and Infrastructure Automation. I continuously work on practical projects to strengthen my technical expertise and industry readiness.
 
