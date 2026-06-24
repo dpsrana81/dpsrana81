@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Dev Pratap Singh
 
-<h3 align="center">Cloud Computing Enthusiast | AWS Learner | DevOps Aspirant | B.Tech CSE Student</h3>
+<h3 align="center">Cloud Computing Enthusiast | AWS Learner | DevOps Aspirant | B.Tech IT Student</h3>
 
 <p align="center">
 🎓 B.Tech CSE (3rd Year) | Kurukshetra University <br>
